@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Grant Sherman
+- 👀 I’m interested in everything data
+- 🌱 I’m currently learning data analytics using python, sql, & tableau
+- 📫 You can reach me at gsherman1130@gmail.com
