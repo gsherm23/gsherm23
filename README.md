@@ -1,5 +1,6 @@
 
 <h1 width=100%, align=center>Grant Sherman</h1>
+
 - 👀 I'm fascinated with everything data. How we study and learn from it in order to make decisions that will impact the world.
 - 🌱 I’m currently learning data analytics using python, sql, & tableau
 - 📫 You can reach me at gsherman1130@gmail.com
