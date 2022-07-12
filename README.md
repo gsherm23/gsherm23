@@ -11,5 +11,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/?username=gsherm23&count_private=true&theme=dracula&showicons=true&hide_border=true&bg_color=040f0f" />
 </a>
 <a href="https://github.com/gsherm23/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsherm23&langs_count=5&theme=dracula&hide_border=true&bg_color=040f0f" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsherm23&langs_count=10&theme=dracula&hide_border=true&bg_color=040f0f" />
 </a>
